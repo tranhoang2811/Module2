@@ -1,0 +1,41 @@
+html,
+body {
+    background-color: #fcf4dc;
+}
+
+
+.resume-name {
+    text-align: center;
+}
+
+.resume-id {
+    text-align: center;
+}
+
+.resume-line {
+    height: 4px;
+    background-color: purple;
+}
+
+
+.avatar-container {
+    display: flex;
+    justify-content: center;
+}
+
+.navigation-bar {
+    display: flex;
+    justify-content: center;
+}
+
+.navigation-bar .navigation-container {
+    list-style-type: none;
+}
+
+.navigation-bar .navigation-container .navigation-item {
+    display: inline;
+}
+
+.resume-section .section-title {
+    text-align: center;
+}

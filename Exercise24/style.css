@@ -1,0 +1,47 @@
+.container {
+    background-image: url('./ex24/images/Marble.jpg');
+    padding: 12px
+}
+
+.image-container {
+    text-align: center;
+}
+
+.collection-paragraph {
+    text-align: justify;
+}
+
+.image-container img {
+    width: 240px;
+}
+
+.title {
+    color: red;
+}   
+
+.table-container {
+    padding: 0 400px;
+}
+
+.collection-table {
+    width: 100%;
+}
+
+.collection-table .collection-caption {
+    color: red;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.collection-table .table-header {
+    background-color: greenyellow;
+}
+
+.collection-table .table-first-column {
+    background-color: yellow;
+}
+
+.collection-table .table-column {
+    background-color: white;
+}
+

@@ -1,0 +1,67 @@
+.side-bar {
+    background-color: #008001;
+    vertical-align: top;
+    padding: 4px;
+}
+
+.side-bar h4 {
+    color: yellow;
+}
+
+.container table {
+    width: 600px;
+}
+
+.basic-information-header {
+    text-align: center;
+}
+
+.logo-container img {
+    width: 100%;
+}
+
+.basic-information-container {
+    list-style-type: none;
+    padding: 0;
+}
+
+.basic-information-container li a {
+    color: white
+}
+
+.paper-image {
+    float: right;
+}
+
+.section-title {
+    text-align: center;
+}
+
+.president-information {
+    vertical-align: top;
+    width: 212px;
+}
+
+.president-information h5 {
+    margin-top: 0;
+    color: red;
+}
+
+.list-section {
+    background-color: yellow;
+    padding-top: 20px;
+    color: red
+}
+
+.list-section h4 {
+    margin: 0;
+}
+
+.profile-section {
+    vertical-align: top;
+}
+
+.profile-section h5 {
+    margin-top: 0;
+    color: red;
+}

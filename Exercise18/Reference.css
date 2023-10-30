@@ -1,0 +1,12 @@
+.reference-header {
+    text-align: center;
+}
+
+.navigation-container a {
+    text-decoration: none;
+}
+
+.reference-container {
+    list-style-type: none;
+    padding: 0;
+}
